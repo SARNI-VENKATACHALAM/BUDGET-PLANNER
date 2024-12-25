@@ -1,7 +1,7 @@
 
 # ![budget(2)](https://github.com/agrSaket/Budget-Planner/assets/134057654/dc52a02d-881e-42d0-a311-779ee2d2fd8e) Budget Buddy
 
-BudgetBuddy is a budget planner web application which is built using the React JavaScript library. 
+BudgetBuddy is a budget planner web application which is built using the React JavaScript library.<br>
 This application allows users to manage their budgets and expenses. 
 The application provides an intuitive interface for creating and managing budgets, adding and editing expenses, and tracking spending over time.
 
